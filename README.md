@@ -1,10 +1,9 @@
-![Page InterFace](https://github.com/Sumitsharma31/Wether-App/blob/main/public/wetherUI.png?raw=true)
+
 <div align="center">
 🌬️ React Animated Weather App
 A sleek, modern, and responsive weather application built with React, Tailwind CSS, and Framer Motion.
-Replace the link above with a real screenshot or GIF of your application.
 <p>
-<a href="https://www.google.com/search?q=https://github.com/YourUsername/your-repo-name/fork"><img src="https://www.google.com/search?q=https://img.shields.io/github/forks/YourUsername/your-repo-name%3Fstyle%3Dfor-the-badge"></a>
+<a href="https://www.google.com/search?q=https://github.com/YourUsername/your-repo-name/fork"><img src="[https://www.google.com/search?q=https://img.shields.io/github/forks/YourUsername/your-repo-name%3Fstyle%3Dfor-the-badge](https://github.com/Sumitsharma31/Wether-App/blob/main/public/wetherUI.png?raw=true)"></a>
 <a href="https://www.google.com/search?q=https://github.com/YourUsername/your-repo-name/stargazers"><img src="https://www.google.com/search?q=https://img.shields.io/github/stars/YourUsername/your-repo-name%3Fstyle%3Dfor-the-badge"></a>
 <a href="https://www.google.com/search?q=https://github.com/YourUsername/your-repo-name/blob/main/LICENSE"><img src="https://www.google.com/search?q=https://img.shields.io/github/license/YourUsername/your-repo-name%3Fstyle%3Dfor-the-badge%26color%3Dblue"></a>
 </p>
